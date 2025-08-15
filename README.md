@@ -1,6 +1,4 @@
-🔍 NUST Lost & Found System
 
-A centralized platform to help NUST students, faculty, and staff report and recover lost or found items on campus. The system ensures efficient item tracking, secure claim handling, and real-time communication between users.
 
 🎯 Purpose
 
